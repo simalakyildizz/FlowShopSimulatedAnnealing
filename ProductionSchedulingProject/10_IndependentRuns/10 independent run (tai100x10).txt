@@ -1,0 +1,39 @@
+Jobs: 100
+Machines: 10
+
+Run 1
+Best Makespan: 3143
+
+Run 2
+Best Makespan: 3185
+
+Run 3
+Best Makespan: 3209
+
+Run 4
+Best Makespan: 3196
+
+Run 5
+Best Makespan: 3158
+
+Run 6
+Best Makespan: 3196
+
+Run 7
+Best Makespan: 3190
+
+Run 8
+Best Makespan: 3198
+
+Run 9
+Best Makespan: 3210
+
+Run 10
+Best Makespan: 3168
+
+========== Statistical Results ==========
+Best: 3143
+Worst: 3210
+Mean: 3185.3
+Std Dev: 21.01927686672403
+Runtime (seconds): 6.1716272830963135
